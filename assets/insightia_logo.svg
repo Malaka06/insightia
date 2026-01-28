@@ -1,0 +1,25 @@
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond transparent -->
+  <rect width="400" height="150" fill="none" />
+  
+  <!-- Icône du logo (Rouge là où il y avait du vert/bleu) -->
+  <g transform="translate(20, 25)">
+    <!-- Bulle de discussion (Rouge) -->
+    <path d="M10,0 H70 A10,10 0 0 1 80,10 V60 A10,10 0 0 1 70,70 H30 L10,90 V70 A10,10 0 0 1 0,60 V10 A10,10 0 0 1 10,0 Z" fill="#E30613" />
+    
+    <!-- Graphique à barres (Blanc cassé pour contraste sur rouge) -->
+    <rect x="15" y="40" width="10" height="20" fill="#F5F5F5" />
+    <rect x="30" y="25" width="10" height="35" fill="#F5F5F5" />
+    <rect x="45" y="35" width="10" height="25" fill="#F5F5F5" />
+    
+    <!-- Loupe (Blanc cassé) -->
+    <circle cx="55" cy="55" r="12" stroke="#F5F5F5" stroke-width="4" fill="none" />
+    <line x1="63" y1="63" x2="72" y2="72" stroke="#F5F5F5" stroke-width="4" stroke-linecap="round" />
+  </g>
+  
+  <!-- Texte principal : INSIGHTIA (Blanc cassé) -->
+  <text x="110" y="85" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#F5F5F5">INSIGHTIA</text>
+  
+  <!-- Slogan : Analyse des verbatims clients (Blanc cassé légèrement plus sombre pour hiérarchie) -->
+  <text x="110" y="110" font-family="Arial, sans-serif" font-size="16" fill="#E0E0E0">Analyse des verbatims clients</text>
+</svg>

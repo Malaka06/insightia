@@ -1,0 +1,10 @@
+irritant,nb,nb_blocking,part_blocking,part_neg,impact_score,priorite_finale,severite_finale,recommandation
+Technique / Bug / Fonctionnalité,1395,1395,1.0,1.0,72.16481360366252,P0,S1,"🚨 P0 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Performance / Lenteur,1090,1090,1.0,1.0,69.50512317418791,P0,S1,"🚨 P0 : Optimiser temps de réponse (lazy loading, cache, monitoring, budgets perf)."
+Compte / Connexion / Authentification,150,150,1.0,1.0,61.308044473512105,P1,S1,"⚠️ P1 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Données / Synchronisation,33,33,1.0,1.0,60.28776978417266,P2,S1,"✅ P2 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Sinistre / Indemnisation,18,18,1.0,1.0,60.15696533682144,P2,S1,"✅ P2 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Contrat / Attestation / Documents,7,7,1.0,1.0,60.06104207543057,P2,S1,"✅ P2 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Paiement / Facturation / Abonnement,1,1,1.0,1.0,60.00872029649008,P2,S1,"✅ P2 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Autre,4587,0,0.0,0.0,40.0,P2,S3,"✅ P2 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."
+Inconnu,1029,0,0.0,0.0,8.973185088293002,P2,S3,"✅ P2 : Analyser les exemples, créer une règle de routage (mots-clés) et proposer une action produit."

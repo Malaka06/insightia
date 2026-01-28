@@ -1,0 +1,135 @@
+/* insightia/ui/styles.css */
+
+:root{
+  --bg: #F8FAFC;
+  --card: #FFFFFF;
+  --text: #0F172A;
+  --muted: #64748B;
+  --border: #E2E8F0;
+  --blue1: #1E3A8A;
+  --blue2: #3B82F6;
+  --blue3: #60A5FA;
+  --red: #EF4444;
+  --orange: #F59E0B;
+  --green: #10B981;
+  --shadow: 0 10px 30px rgba(2,6,23,.08);
+}
+
+html, body, [class*="css"]  {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Fond général */
+.stApp {
+  background: var(--bg);
+}
+
+/* Container max width plus agréable */
+.block-container {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  max-width: 1200px;
+}
+
+/* Header hero */
+.ins-hero{
+  background: linear-gradient(115deg, var(--blue1), var(--blue2), var(--blue3));
+  border-radius: 20px;
+  padding: 22px 22px;
+  color: white;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255,255,255,.15);
+}
+.ins-hero h1{
+  margin: 0;
+  font-size: 32px;
+  letter-spacing: .2px;
+}
+.ins-hero p{
+  margin: 6px 0 0 0;
+  color: rgba(255,255,255,.88);
+}
+
+/* Cartes KPI */
+.kpi-grid{
+  display:grid;
+  grid-template-columns: repeat(4, minmax(0,1fr));
+  gap: 14px;
+  margin-top: 14px;
+}
+@media (max-width: 1100px){
+  .kpi-grid{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 600px){
+  .kpi-grid{ grid-template-columns: 1fr; }
+}
+
+.kpi-card{
+  background: var(--card);
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 22px rgba(2,6,23,.06);
+  padding: 14px 14px;
+}
+.kpi-top{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 10px;
+}
+.kpi-label{
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+}
+.kpi-value{
+  font-size: 30px;
+  font-weight: 800;
+  color: var(--text);
+  margin-top: 6px;
+}
+.kpi-sub{
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.badge{
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-weight: 700;
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--text);
+}
+
+.badge.red{ border-color: rgba(239,68,68,.25); background: rgba(239,68,68,.08); color: #991B1B; }
+.badge.orange{ border-color: rgba(245,158,11,.25); background: rgba(245,158,11,.10); color: #92400E; }
+.badge.green{ border-color: rgba(16,185,129,.25); background: rgba(16,185,129,.10); color: #065F46; }
+.badge.blue{ border-color: rgba(59,130,246,.25); background: rgba(59,130,246,.10); color: #1E40AF; }
+
+/* Cards sections */
+.ins-card{
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: 0 8px 22px rgba(2,6,23,.06);
+  padding: 16px 16px;
+}
+
+/* Titres */
+h2, h3{
+  color: var(--text);
+}
+.small-muted{
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* Dataframes plus clean */
+[data-testid="stDataFrame"]{
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+}
