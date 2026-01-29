@@ -24,7 +24,7 @@ def _logo_data_uri() -> str | None:
 # ------------------------------------------------------------
 def render_breadcrumb(active: str) -> None:
     # Pas sur pages marketing
-    if active in ("landing", "solution", "usecases", "about", "contact"):
+    if active in ("landing", "solution", "use_cases", "about", "contact"):
         return
 
     # CSS breadcrumb (léger) : injecté ici dans le DOM principal (pas iframe)
@@ -83,7 +83,7 @@ def render_header(active: str = "landing") -> None:
         "<nav class='navlinks' aria-label='Navigation principale'>"
         f"{nav_link('Accueil','landing')}"
         f"{nav_link('Solution','solution')}"
-        f"{nav_link('Cas d’usage','usecases')}"
+        f"{nav_link('Cas d’usage','use_cases')}"
         f"{nav_link('À propos','about')}"
         f"{nav_link('Contact','contact')}"
         "</nav>"

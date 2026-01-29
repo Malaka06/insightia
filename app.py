@@ -17,6 +17,8 @@ from ui.pages.backlog import render as render_prioritization
 from ui.pages.reports import render as render_reports
 from ui.pages.about import render as render_about
 from ui.pages.contact import render as render_contact
+from ui.pages.use_cases import render as render_use_cases
+
 
 
 # ------------------------------------------------------------
@@ -47,7 +49,8 @@ routes = {
     "analysis": render_analysis,
     "prioritization": render_prioritization,
     "reports": render_reports,
-    "about": render_about,  
+    "about": render_about,
+    "use_cases": render_use_cases,
     "contact": render_contact,  
 }
 
