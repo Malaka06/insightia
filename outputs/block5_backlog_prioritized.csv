@@ -1,0 +1,22 @@
+motif,situation,n_recent,growth_ratio,delta,priority_score,recent_months,prev_months,problem_statement
+photo,blocage_parcours,267,0.978102189781022,-6,261.1532846715329,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : photo — situation : blocage_parcours
+photo,perte_temps,168,1.0903225806451613,14,183.1741935483871,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : photo — situation : perte_temps
+photo,essais_multiples,137,0.8625,-22,118.16250000000001,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : photo — situation : essais_multiples
+parcours,blocage_parcours,91,1.2777777777777777,20,116.27777777777777,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : parcours — situation : blocage_parcours
+parcours,perte_temps,109,0.9322033898305084,-8,101.61016949152543,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : parcours — situation : perte_temps
+parcours,essais_multiples,112,0.904,-12,101.248,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : parcours — situation : essais_multiples
+lenteur,perte_temps,73,1.0136986301369864,1,74.0,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : lenteur — situation : perte_temps
+bug,essais_multiples,49,1.351351351351351,13,66.21621621621621,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : bug — situation : essais_multiples
+lenteur,essais_multiples,66,1.0,0,66.0,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : lenteur — situation : essais_multiples
+bug,blocage_parcours,66,0.8375,-13,55.275,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : bug — situation : blocage_parcours
+authentification,essais_multiples,60,0.8970588235294118,-7,53.82352941176471,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : authentification — situation : essais_multiples
+authentification,perte_temps,44,1.2162162162162162,8,53.513513513513516,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : authentification — situation : perte_temps
+photo,recours_support,57,0.8787878787878788,-8,50.09090909090909,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : photo — situation : recours_support
+complexité,perte_temps,43,0.9777777777777776,-1,42.04444444444444,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : complexité — situation : perte_temps
+bug,recours_support,24,1.25,5,30.0,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : bug — situation : recours_support
+complexité,essais_multiples,29,1.0344827586206895,1,29.999999999999996,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : complexité — situation : essais_multiples
+authentification,blocage_parcours,22,1.0952380952380951,2,24.09523809523809,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : authentification — situation : blocage_parcours
+parcours,recours_support,23,1.0434782608695652,1,24.0,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : parcours — situation : recours_support
+bug,perte_temps,35,0.5806451612903226,-26,20.322580645161292,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : bug — situation : perte_temps
+lenteur,recours_support,20,0.84,-4,16.8,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : lenteur — situation : recours_support
+lenteur,blocage_parcours,23,0.6857142857142857,-11,15.771428571428572,"2024-10-01, 2024-11-01, 2024-12-01","2024-07-01, 2024-08-01, 2024-09-01",Problème : lenteur — situation : blocage_parcours

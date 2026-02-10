@@ -1,0 +1,66 @@
+motif,situation,region,n
+photo,blocage_parcours,Île-de-France,196
+photo,blocage_parcours,Auvergne-Rhône-Alpes,142
+photo,essais_multiples,Île-de-France,133
+photo,perte_temps,Île-de-France,119
+photo,blocage_parcours,Nouvelle-Aquitaine,105
+photo,blocage_parcours,Occitanie,98
+photo,blocage_parcours,Hauts-de-France,96
+photo,blocage_parcours,Grand Est,96
+parcours,perte_temps,Île-de-France,93
+parcours,essais_multiples,Île-de-France,81
+photo,blocage_parcours,Pays de la Loire,79
+photo,perte_temps,Nouvelle-Aquitaine,79
+photo,perte_temps,Auvergne-Rhône-Alpes,77
+photo,essais_multiples,Auvergne-Rhône-Alpes,72
+photo,blocage_parcours,Normandie,70
+photo,essais_multiples,Nouvelle-Aquitaine,65
+photo,blocage_parcours,PACA,65
+parcours,essais_multiples,Auvergne-Rhône-Alpes,63
+photo,essais_multiples,Grand Est,59
+photo,blocage_parcours,Bretagne,56
+parcours,perte_temps,Auvergne-Rhône-Alpes,55
+photo,perte_temps,Pays de la Loire,55
+photo,essais_multiples,Occitanie,55
+parcours,blocage_parcours,Île-de-France,53
+lenteur,perte_temps,Île-de-France,53
+photo,essais_multiples,PACA,51
+photo,perte_temps,Hauts-de-France,51
+photo,perte_temps,Grand Est,51
+photo,essais_multiples,Pays de la Loire,48
+bug,blocage_parcours,Île-de-France,48
+photo,perte_temps,PACA,48
+parcours,perte_temps,Grand Est,47
+photo,recours_support,Île-de-France,46
+photo,perte_temps,Occitanie,44
+photo,perte_temps,Bretagne,44
+bug,blocage_parcours,Auvergne-Rhône-Alpes,43
+photo,essais_multiples,Hauts-de-France,43
+authentification,essais_multiples,Île-de-France,41
+parcours,perte_temps,Occitanie,41
+parcours,perte_temps,Nouvelle-Aquitaine,41
+parcours,essais_multiples,PACA,40
+lenteur,perte_temps,Auvergne-Rhône-Alpes,39
+parcours,essais_multiples,Occitanie,38
+parcours,blocage_parcours,Nouvelle-Aquitaine,38
+photo,blocage_parcours,Bourgogne-Franche-Comté,38
+bug,perte_temps,Île-de-France,37
+photo,recours_support,Auvergne-Rhône-Alpes,37
+parcours,essais_multiples,Grand Est,37
+bug,blocage_parcours,Nouvelle-Aquitaine,36
+parcours,essais_multiples,Nouvelle-Aquitaine,36
+parcours,blocage_parcours,Auvergne-Rhône-Alpes,35
+parcours,essais_multiples,Pays de la Loire,35
+parcours,perte_temps,Hauts-de-France,35
+photo,essais_multiples,Normandie,34
+photo,essais_multiples,Bretagne,34
+lenteur,perte_temps,Occitanie,33
+lenteur,essais_multiples,Île-de-France,33
+photo,perte_temps,Normandie,32
+bug,essais_multiples,Île-de-France,32
+parcours,blocage_parcours,Occitanie,32
+parcours,perte_temps,Pays de la Loire,32
+authentification,essais_multiples,Auvergne-Rhône-Alpes,31
+lenteur,essais_multiples,Auvergne-Rhône-Alpes,31
+lenteur,perte_temps,Grand Est,31
+bug,perte_temps,Auvergne-Rhône-Alpes,31

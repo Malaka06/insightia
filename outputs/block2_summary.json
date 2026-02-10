@@ -1,0 +1,31 @@
+{
+  "n_comments": 8650,
+  "n_motifs": 6,
+  "min_comments_per_theme_keywords": 30,
+  "top_k_keywords": 12,
+  "examples_per_theme": 5,
+  "situations_rules": {
+    "perte_temps": [
+      "anchors",
+      "context"
+    ],
+    "essais_multiples": [
+      "anchors",
+      "context"
+    ],
+    "blocage_parcours": [
+      "anchors",
+      "context"
+    ],
+    "recours_support": [
+      "anchors",
+      "context"
+    ]
+  },
+  "outputs": {
+    "theme_summary": "outputs/block2_theme_summary.csv",
+    "theme_keywords": "outputs/block2_theme_keywords.csv",
+    "motif_situations": "outputs/block2_motif_situations.csv",
+    "theme_verbatims": "outputs/block2_theme_verbatims.csv"
+  }
+}

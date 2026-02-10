@@ -1,0 +1,13 @@
+{
+  "n_rows": 8650,
+  "period_min": "2024-01-01",
+  "period_max": "2024-12-31",
+  "share_with_situation": 0.5705202312138729,
+  "outputs": {
+    "motif_month": "outputs/block4_motif_month.csv",
+    "situation_month": "outputs/block4_situation_month.csv",
+    "signals_motif": "outputs/block4_signals_motif.csv",
+    "signals_situation": "outputs/block4_signals_situation.csv",
+    "zoom_motif_situation": "outputs/block4_zoom_motif_situation.csv"
+  }
+}

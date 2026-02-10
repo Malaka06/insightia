@@ -1,0 +1,31 @@
+motif,sentiment,note,kw_score,situations,commentaire_extrait
+authentification,neg,2,8,"perte_temps,essais_multiples","Je suis déçu, le code SMS n'arrive pas même après réinitialisation malgré plusieurs essais, franchement je perds un temps fou, j'ai fini par appeler."
+authentification,neg,1,8,"perte_temps,essais_multiples","Ras-le-bol, le code SMS n'arrive pas même après réinitialisation malgré plusieurs essais, franchement je perds un temps fou, je vais réessayer plus tard."
+authentification,neg,1,8,"perte_temps,essais_multiples","Ras-le-bol, le code SMS n'arrive pas sur l'espace client malgré plusieurs essais, franchement je perds un temps fou, merci de corriger vite."
+authentification,neg,1,7,"perte_temps,essais_multiples","Très mécontent, le code SMS n'arrive pas depuis plusieurs tentatives malgré plusieurs essais, franchement je perds un temps fou, j'espère que ça ira mieux."
+authentification,neg,1,7,perte_temps,"Franchement, le code SMS n'arrive pas depuis plusieurs tentatives et je perds tout, franchement je perds un temps fou, j'ai fini par appeler."
+bug,neg,1,9,"perte_temps,essais_multiples","Franchement, le bouton valider ne fait rien sur mon téléphone malgré plusieurs essais, bref je perds un temps fou, c'est pas sérieux."
+bug,neg,1,9,"perte_temps,essais_multiples","Très mécontent, j'ai un écran blanc sur mon téléphone malgré plusieurs essais, franchement je perds un temps fou, ça devient pénible."
+bug,neg,1,8,"perte_temps,essais_multiples","Très mécontent, j'ai un écran blanc sur mon téléphone malgré plusieurs essais, mais je perds un temps fou, j'espère que ça ira mieux."
+bug,neg,1,8,"perte_temps,essais_multiples","Franchement, j'ai un écran blanc dès que je passe à l'étape suivante malgré plusieurs essais, mais je perds un temps fou, merci quand même."
+bug,neg,2,8,"perte_temps,essais_multiples","Ras-le-bol, un message d'erreur apparaît sur mon téléphone malgré plusieurs essais, bref je perds un temps fou, c'est pas sérieux."
+complexité,neg,2,9,"perte_temps,essais_multiples","Franchement, trop de champs obligatoires pour un petit impact malgré plusieurs essais, du coup je perds un temps fou, ça devient pénible."
+complexité,neg,1,9,"perte_temps,essais_multiples","Franchement, je dois refaire plusieurs fois pour un petit impact malgré plusieurs essais, donc je perds un temps fou, merci de corriger vite."
+complexité,neg,1,9,"perte_temps,essais_multiples","C'est inadmissible, trop de champs obligatoires pour un petit impact malgré plusieurs essais, franchement je perds un temps fou, merci de corriger vite."
+complexité,neg,2,9,"perte_temps,essais_multiples","Je suis déçu, c'est trop technique pour un petit impact malgré plusieurs essais, mais je perds un temps fou, merci quand même."
+complexité,neg,2,9,"perte_temps,essais_multiples","Franchement, on me demande des infos impossibles pour un petit impact malgré plusieurs essais, mais je perds un temps fou, j'ai fini par appeler."
+lenteur,neg,1,9,"perte_temps,essais_multiples","C'est inadmissible, l'app met des minutes à répondre depuis ce matin malgré plusieurs essais, franchement je perds un temps fou, j'ai fini par appeler."
+lenteur,neg,1,9,"perte_temps,essais_multiples","Franchement, l'app met des minutes à répondre depuis ce matin malgré plusieurs essais, du coup je perds un temps fou, je vais réessayer plus tard."
+lenteur,neg,1,8,"perte_temps,essais_multiples","Ras-le-bol, l'app met des minutes à répondre au moment d'envoyer malgré plusieurs essais, franchement je perds un temps fou, je vais réessayer plus tard."
+lenteur,neg,1,8,"perte_temps,essais_multiples","Ras-le-bol, le dossier met trop longtemps à s'afficher depuis ce matin malgré plusieurs essais, mais je perds un temps fou, bonne journée."
+lenteur,neg,1,8,"perte_temps,essais_multiples",Très mécontent le dossier met trop longtemps à s'afficher depuis ce matin malgré plusieurs essais bref je perds un temps fou je vais réessayer plus.
+parcours,neg,2,9,"perte_temps,essais_multiples,blocage_parcours",Franchement on tourne en rond dans les écrans entre devis et sinistre malgré plusieurs essais alors je perds un temps fou je vais réessayer plus.
+parcours,neg,2,9,"perte_temps,essais_multiples","Franchement, je ne comprends pas les étapes entre devis et sinistre malgré plusieurs essais, mais je perds un temps fou, j'ai fini par appeler."
+parcours,neg,1,9,"perte_temps,essais_multiples",C'est inadmissible je n'arrive pas à trouver où suivre mon sinistre entre devis et sinistre malgré plusieurs essais franchement je perds un temps fou c'est.
+parcours,neg,2,9,"perte_temps,essais_multiples","Franchement, je n'arrive pas à trouver où suivre mon sinistre entre les onglets malgré plusieurs essais, donc je perds un temps fou, c'est pas sérieux."
+parcours,neg,1,9,"perte_temps,essais_multiples",Franchement je n'arrive pas à trouver où suivre mon sinistre entre devis et sinistre malgré plusieurs essais donc je perds un temps fou j'espère que.
+photo,neg,1,11,"perte_temps,essais_multiples","Ras-le-bol, l'ajout des photos bloque sur l'étape des justificatifs malgré plusieurs essais, franchement je perds un temps fou, c'est pas sérieux."
+photo,neg,2,10,"perte_temps,essais_multiples",Je suis déçu les photos restent en attente sur l'étape des justificatifs malgré plusieurs essais franchement je perds un temps fou j'espère que ça ira.
+photo,neg,2,10,"perte_temps,essais_multiples","Ras-le-bol, l'ajout des photos bloque sur l'étape des justificatifs malgré plusieurs essais, mais je perds un temps fou, merci quand même."
+photo,neg,1,10,"perte_temps,essais_multiples","Ras-le-bol, l'ajout des photos bloque sur l'étape des justificatifs malgré plusieurs essais, bref je perds un temps fou, ça devient pénible."
+photo,neg,2,10,"perte_temps,essais_multiples","Je suis déçu, l'ajout des photos bloque sur l'étape des justificatifs malgré plusieurs essais, bref je perds un temps fou, merci quand même."

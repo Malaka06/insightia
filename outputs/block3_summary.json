@@ -1,0 +1,24 @@
+{
+  "n_rows": 8650,
+  "n_rows_long": 6325,
+  "period_min": "2024-01-01",
+  "period_max": "2024-12-31",
+  "usable_context": [
+    "canal",
+    "device",
+    "contexte",
+    "region",
+    "urgence",
+    "support"
+  ],
+  "outputs": {
+    "cross_canal": "outputs/block3_cross_canal.csv",
+    "cross_device": "outputs/block3_cross_device.csv",
+    "cross_contexte": "outputs/block3_cross_contexte.csv",
+    "cross_region": "outputs/block3_cross_region.csv",
+    "cross_urgence": "outputs/block3_cross_urgence.csv",
+    "cross_support": "outputs/block3_cross_support.csv",
+    "hotspots": "outputs/block3_hotspots.csv",
+    "data_enriched": "outputs/comments_clean.parquet"
+  }
+}

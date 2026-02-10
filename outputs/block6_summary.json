@@ -1,0 +1,15 @@
+{
+  "source": "outputs\\comments_clean.parquet",
+  "n_rows": 8650,
+  "n_motifs": 6,
+  "exports": {
+    "motif": "outputs\\block6_business_impact_motif.csv",
+    "motif_situation": "outputs\\block6_business_impact_motif_situation.csv"
+  },
+  "weights": {
+    "volume": 0.4,
+    "neg": 0.25,
+    "note": 0.25,
+    "growth": 0.1
+  }
+}
